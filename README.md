@@ -8,7 +8,8 @@
 
 <div align="center">
 <a href="https://github.com/gh-artur">
-<img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=gh-artur&theme=nightowl&border_radius=50"/>
+<img height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=gh-artur&theme=nightowl&border_radius=50"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gh-artur&layout=compact&langs_count=7&theme=nightowl&border_radius=35"/>
 </div>
 
 ---
